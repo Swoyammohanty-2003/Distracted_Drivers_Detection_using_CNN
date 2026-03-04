@@ -44,12 +44,6 @@ Python, TensorFlow, Keras, OpenCV, Tkinter, NumPy, Keras Tuner
 
 ---
 
-## ▶️ How to Run
-
-```bash
-pip install -r requirements.txt
-python main.py
-
 ```markdown
 ## 📸 Output Screenshots
 
@@ -59,6 +53,15 @@ python main.py
 ![Distracted Alert]
 ![Picture2](https://github.com/user-attachments/assets/fcc58090-cda3-4c65-ae69-2f0152ef41e5)
 ![Picture7](https://github.com/user-attachments/assets/e5c61b91-0cb9-4de5-9404-2e64b7f8ed5d)
+
+---
+
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+python main.py
+
 
 
 
